@@ -28,5 +28,6 @@ Data Source : https://www.kaggle.com/datasets/carrie1/ecommerce-data
 ## Limitations and Future Work:
 Discusses the limitations encountered, such as the absence of customer feedback data, and outlines future directions for incorporating additional datasets, predictive modeling, and dynamic RFM segmentation.
 
-Conclusion:
-1. The project demonstrates the effectiveness of RFM analysis in understanding customer behavior and guiding targeted marketing efforts. 2. The findings provide a basis for enhancing customer satisfaction and driving business growth.
+## Conclusion:
+1. The project demonstrates the effectiveness of RFM analysis in understanding customer behavior and guiding targeted marketing efforts.
+2. The findings provide a basis for enhancing customer satisfaction and driving business growth.
